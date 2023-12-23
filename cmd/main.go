@@ -7,4 +7,5 @@ import (
 func main() {
 	p.SendTransactions()
 	p.ChargeBackTransactions()
+	p.ReadACH()
 }
